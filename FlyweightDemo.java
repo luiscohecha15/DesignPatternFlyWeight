@@ -96,7 +96,7 @@ public class FlyweightDemo {
         forest.plantTree(50, 60, "Roble", "Marrón", "Corteza rugosa"); // Reutiliza el roble
 
 
-        //Abroles del taller, con nuevas caracteristicas y nuevas posiciones
+        //Arboles del taller, con nuevas caracteristicas y nuevas posiciones
         forest.plantTree(20, 20, "ABEDUL", "BLANCO MOTEADO", "CORTEZA FIRME"); 
         forest.plantTree(30, 20, "ABEDUL", "BLANCO MOTEADO", "CORTEZA FIRME"); 
         forest.plantTree(40, 20, "ABEDUL", "BLANCO MOTEADO", "CORTEZA FIRME"); 
